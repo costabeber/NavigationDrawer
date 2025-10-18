@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.MeuMarketplace" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/brand_green</item>
+        <item name="colorPrimaryVariant">#1B5E20</item>
+        <item name="android:statusBarColor">#1B5E20</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

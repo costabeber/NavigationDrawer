@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MeuMarketplace</string>
+    <string name="nav_open">Abrir navegação</string>
+    <string name="nav_close">Fechar navegação</string>
+    <string name="menu_home">Início</string>
+    <string name="menu_electronics">Eletrônicos</string>
+    <string name="menu_fashion">Moda</string>
+    <string name="menu_cart">Carrinho</string>
+    <string name="menu_prime">Prime</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="header_user">Felipe Costabeber</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
